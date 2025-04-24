@@ -1,0 +1,12 @@
+.mapa{
+    width: 100%;
+}
+
+.menu {
+    width: 100%;
+    padding: 8px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #0064b4;
+}
